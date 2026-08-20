@@ -117,4 +117,6 @@ $got = file_get_contents($fileName);
 $loadedSettings = json_decode($got, true);
 
 echo "Player: {$loadedSettings['nickname']} | Theme: {$loadedSettings['theme']} <br>"; 
-echo 5;
+
+time(); 
+
