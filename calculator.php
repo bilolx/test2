@@ -33,3 +33,4 @@ $try5 = calculator(4, 1, '/');
 echo $try5 . '<br>';
 
 
+echo 4;
