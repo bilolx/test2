@@ -120,3 +120,9 @@ echo "Player: {$loadedSettings['nickname']} | Theme: {$loadedSettings['theme']} 
 
 time(); 
 
+$a = 5;
+if ($a > 10) {
+    echo "A is greater than 10";
+} else {
+    echo "A is not greater than 10";
+}
