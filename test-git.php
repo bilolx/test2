@@ -126,3 +126,5 @@ if ($a > 10) {
 } else {
     echo "A is not greater than 10";
 }
+$number = 3;
+echo 4;
